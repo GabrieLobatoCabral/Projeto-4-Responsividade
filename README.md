@@ -1,12 +1,12 @@
 # 🚀 Estudo de Responsividade 
 
-![preview](/github/preview.png)
+![preview](https://github.com/GabrieLobatoCabral/Projeto-4-Responsividade/assets/113934416/76bbf54e-6228-4201-8d5c-0b845b7f25ac)
 
 > Rocketseat One
 
 Projeto construído durante o modulo de responsividade do curso explore da Rocketseat🚀.
 
-[📎 Clique aqui para acessar](https://gabrielobatocabral.github.io/listagem-marvel/)
+[📎 Clique aqui para acessar](https://gabrielobatocabral.github.io/Projeto-4-Responsividade/)
 
 ## 🛠️ Tecnologias
 
